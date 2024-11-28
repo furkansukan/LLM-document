@@ -6,3 +6,4 @@ transformers
 nltk
 torch
 requests
+tiktoken
