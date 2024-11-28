@@ -9,3 +9,5 @@ torch==2.0.1
 requests
 tiktoken
 sentencepiece
+wheel
+setuptools
