@@ -2,9 +2,9 @@ numpy
 pandas
 streamlit
 pdfplumber
-transformers
+transformers==4.33.2
 nltk
-torch
+torch==2.0.1
 requests
 tiktoken
 sentencepiece
