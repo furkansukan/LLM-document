@@ -12,3 +12,4 @@ sentencepiece
 python_version
 wheel
 setuptools
+distuils
