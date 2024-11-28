@@ -1,0 +1,10 @@
+numpy
+pandas
+streamlit
+pdfplumber
+transformers
+nltk
+pipeline
+sent_tokenize
+torch
+requests
