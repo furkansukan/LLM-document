@@ -4,7 +4,8 @@ streamlit
 pdfplumber
 transformers
 nltk
-torch>=2.2.0
+python=3.12
+torch==2.0.1
 requests
 tiktoken
 sentencepiece
