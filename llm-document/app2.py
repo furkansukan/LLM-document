@@ -1,5 +1,6 @@
 import streamlit as st
 import pdfplumber
+import torch
 from transformers import pipeline
 import nltk
 from nltk.tokenize import sent_tokenize
